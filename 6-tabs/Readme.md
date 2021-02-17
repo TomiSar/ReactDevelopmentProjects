@@ -1,14 +1,3 @@
-## Corresponding Tutorial Topics
+#### IN ACTION
 
-#### useState
-
-1. Birthday Reminder
-
-#### useEffect and Conditional Rendering
-
-2. Tours
-3. Reviews
-4. Questions
-5. Menu
-6. Tabs
-7. Slider
+[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
