@@ -1,3 +1,12 @@
+### Install tool if missing
+NodeJS: https://nodejs.org/en/download/
+
+#### Install dependencies from root folder
+npm install
+
+#### Run projects in project root folder
+npm start
+
 #### useState
 
 1. Birthday Reminder
@@ -24,4 +33,3 @@
 #### useContext
 
 12. Modal And Sidebar
-13. Stripe Submenus
